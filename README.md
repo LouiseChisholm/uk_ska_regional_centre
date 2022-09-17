@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Programme Management"
+permalink: "/ProgrammeManagement/"
 layout: page
 ---
 

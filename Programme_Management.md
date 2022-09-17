@@ -1,5 +1,5 @@
 ---
-title: "Programme Management Portfolio"
+title: "Programme Management"
 permalink: "/Programme_Management/"
 layout: page
 ---

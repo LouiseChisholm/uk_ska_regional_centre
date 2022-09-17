@@ -2,4 +2,4 @@
 layout: page
 title: "Home"
 ---
-Adventures with digital research infrastructure 
+Adventures in digital research infrastructure 

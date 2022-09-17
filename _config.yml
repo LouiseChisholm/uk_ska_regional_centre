@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
-  - {file: "test.pdf", "CV"}
-  - 
+  - {file: "DRI.md"}
+  - {file: "Programme Management.md"}
+  - {file: "Facilitating Interdiciplinry Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:l.chisholm@ucl.ac.uk"}

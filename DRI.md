@@ -1,6 +1,6 @@
 ---
 title: "Digital Research Infrastructure"
-permalink: "/DRI/"
+permalink: "/dri/"
 layout: page
 ---
 

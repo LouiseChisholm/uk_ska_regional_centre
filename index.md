@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "blog"
+title: "Home"
 ---
-testing q123
+Adventures with digital research infrastructure 

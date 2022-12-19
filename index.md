@@ -3,4 +3,4 @@ layout: page
 title: "Home"
 
 ---
- `![title](/assets/name.jpg))`
+ `![UKSRC logo](/assets/imgages/SKAO-UKSRC_LOGO.jpg))`
